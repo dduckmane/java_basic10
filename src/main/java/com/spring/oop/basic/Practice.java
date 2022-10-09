@@ -2,6 +2,6 @@ package com.spring.oop.basic;
 
 public class Practice {
     public void practice(){
-        System.out.println("안녕");
+        System.out.println();
     }
 }
